@@ -1,1 +1,1 @@
-# SoftwaeEngineering-IT2-Mullah
+# SoftwareEngineering-IT2-Mullah
